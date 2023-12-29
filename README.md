@@ -22,4 +22,4 @@ alembic upgrade head
 uvicorn main:app --reload
 ```
 
-4. [Set-up the front-end](https://github.com/szhu95/market-ai-app)
+4. [Setup the front-end](https://github.com/szhu95/market-ai-app)
